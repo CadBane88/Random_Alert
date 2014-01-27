@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+div[data-role="content"] {
+	background: #FFF;
+	color: #000;	
+}
+
+div[data-role="footer"] {
+	text-align: center;	
+}
