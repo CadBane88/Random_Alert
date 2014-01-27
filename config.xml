@@ -3,7 +3,7 @@
 	xmlns:gap   = "http://phonegap.com/ns/1.0"
 	id          = "com.phonegap.example"
 	versionCode = "10" 
-	version     = "0.1" >
+	version     = "0.2" >
 
     <!-- versionCode is optional and Android only -->
 
@@ -17,4 +17,6 @@
         Brad Hagedorn 
     </author>
 
+    <preference name="phonegap-version" value="3.1.0" />
+    <gap:platform name="android" />
 </widget>
